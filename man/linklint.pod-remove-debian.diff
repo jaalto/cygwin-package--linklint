@@ -1,0 +1,39 @@
+From 6991b21b4318134ac3f475b6526906f8ebae5f9b Mon Sep 17 00:00:00 2001
+From: Jari Aalto <jari.aalto@cante.net>
+Date: Sat, 29 Sep 2012 11:37:26 +0300
+Subject: [PATCH] linklint.pod: Remove Debian
+Organization: Private
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Signed-off-by: Jari Aalto <jari.aalto@cante.net>
+---
+ man/linklint.pod |    7 +------
+ 1 files changed, 1 insertions(+), 6 deletions(-)
+
+diff --git a/man/linklint.pod b/man/linklint.pod
+index 4c8aab9..4c8c2ff 100644
+--- a/man/linklint.pod
++++ b/man/linklint.pod
+@@ -66,10 +66,6 @@ I<linkset>
+ This manual page documents briefly the Linklint program, which is an
+ Open Source Perl program that checks local and remote HTML links.
+ 
+-This manual page was written for the Debian distribution because the
+-original program does not have a manual page.  Instead, it has
+-documentation in the HTML format; see below.
+-
+ =head1 OPTIONS
+ 
+ =head2 Input File Selection
+@@ -610,6 +606,5 @@ Disables printing summarys to the screen.
+ 
+ Linklint is written by James B. Bowlin E<lt>jbowlin@linklint.orgE<gt>.
+ This manual page was written by Denis Barbier
+-E<lt>barbier@debian.orgE<gt> for the Debian system (but may be used by
+-others) by cut'n'paste from original documentation written in HTML.
++E<lt>barbier@debian.orgE<gt> by cut'n'paste from original documentation written in HTML.
+ 
+-- 
+1.7.9
+
