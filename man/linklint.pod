@@ -66,10 +66,6 @@ I<linkset>
 This manual page documents briefly the Linklint program, which is an
 Open Source Perl program that checks local and remote HTML links.
 
-This manual page was written for the Debian distribution because the
-original program does not have a manual page.  Instead, it has
-documentation in the HTML format; see below.
-
 =head1 OPTIONS
 
 =head2 Input File Selection
@@ -610,6 +606,5 @@ Disables printing summarys to the screen.
 
 Linklint is written by James B. Bowlin E<lt>jbowlin@linklint.orgE<gt>.
 This manual page was written by Denis Barbier
-E<lt>barbier@debian.orgE<gt> for the Debian system (but may be used by
-others) by cut'n'paste from original documentation written in HTML.
+E<lt>barbier@debian.orgE<gt> by cut'n'paste from original documentation written in HTML.
 
