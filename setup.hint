@@ -1,3 +1,4 @@
+# ARCH=noarch
 sdesc: "A fast link checker and web site maintenance tool"
 ldesc: "A Perl program for checking HTML links: both local and remote site
 checking, cross referenced and fully hyperlinked output reports, the
